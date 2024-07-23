@@ -1,11 +1,11 @@
 # Simple Calculator Program
 
 def calculator():
-    # Prompt user to input two numbers
+   #User to input two numbers
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
 
-    # Prompt user to input an operation choice
+    #User to input an operation choice
     operation = input("Enter the operation (+, -, *, /): ")
 
     # Perform the calculation
